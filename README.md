@@ -1,2 +1,4 @@
 # DiceGame
-This is a project of a dice game made in JS 
+
+This is a project of a dice game made in JS
+![](/Captura.png)
